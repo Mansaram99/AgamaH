@@ -240,6 +240,9 @@ Marriage according to agni-vivAha smR^iti 	 AryaH/hinduism/social-cultivation/dh
 +१ वैराग्य-प्रकरणम् 	 AryaH/hinduism/branches/brAhmaH/yoga-vAsiShTha-shAstram/Ananda-bodhendra-TIkA/1_vairAgya-prakaraNam/
 +१०-१३ 	 AryaH/hinduism/branches/shaivaH/trikam/abhinavagupta-mUlam/tantrAlokaH/pariShkAryam/paramahaMsa-mishraH/p4_10-13/
 +११-२० 	 AryaH/hinduism/branches/shaivaH/trikam/abhinavagupta-mUlam/tantrAlokaH/pariShkAryam/chaturvedi-rAdheshyAmaH/p4_11-20/
++१२० सङ्ग्रहः 	 AryaH/hinduism/branches/mishram/upaniShat/120-sangrahaH/
++१२० सङ्ग्रहः 	 AryaH/hinduism/branches/vaiShNavaH/upaniShat/120-sangrahaH/
++१२० सङ्ग्रहः 	 AryaH/hinduism/branches/yogaH/upaniShat/120-sangrahaH/
 +१४-१५ 	 AryaH/hinduism/branches/shaivaH/trikam/abhinavagupta-mUlam/tantrAlokaH/pariShkAryam/paramahaMsa-mishraH/p5_14-15/
 +१६-२७ 	 AryaH/hinduism/branches/shaivaH/trikam/abhinavagupta-mUlam/tantrAlokaH/pariShkAryam/paramahaMsa-mishraH/p6_16-27/
 +2 	 AryaH/hinduism/branches/brAhmaH/rAmAnujaH/shrI-bhAShyam/thibaut/1/2/
@@ -487,9 +490,11 @@ Marriage according to agni-vivAha smR^iti 	 AryaH/hinduism/social-cultivation/dh
 +ईश्वरप्रत्यभिज्ञाकारिका 	 AryaH/hinduism/branches/shaivaH/trikam/Ishvara-pratyabhiJNA-kArikA/
 +उपकरणानि 	 AryaH/hinduism/AchAraH/vishvAsa-matam/images/shrauta-yAga/upakaraNa/
 +उपनिषत् 	 AryaH/hinduism/branches/brAhmaH/upaniShat/
++उपनिषत् 	 AryaH/hinduism/branches/mishram/upaniShat/
 +उपनिषत् 	 AryaH/hinduism/branches/shaivaH/upaniShat/
 +उपनिषत् 	 AryaH/hinduism/branches/shAktaH/upaniShat/
 +उपनिषत् 	 AryaH/hinduism/branches/vaiShNavaH/upaniShat/
++उपनिषत् 	 AryaH/hinduism/branches/yogaH/upaniShat/
 +कथाः 	 AryaH/hinduism/bases/alaukika-kathAH/
 +कल्पे विश्वासमतम् 	 AryaH/hinduism/AchAraH/vishvAsa-matam/
 +कारिका 	 AryaH/hinduism/branches/sAnkhyam/kArikA/
@@ -4560,6 +4565,7 @@ yavana shaiva 	 AryaH/hinduism/branches/shaivaH/meta/articles/MT/yavana-shaiva/
 उत्तरीयम् 	 AryaH/hinduism/AchAraH/kriyAH/tAtkAlika-saMskAraH/sharIram/veShaH/uttarIyam/
 उत्तरीयम् उपवीतञ्च 	 AryaH/hinduism/AchAraH/kriyAH/tAtkAlika-saMskAraH/sharIram/veShaH/history/uttarIyam_upavItaM_cha/
 उपनयनम् 	 AryaH/hinduism/AchAraH/upanayanam/
+उपनिषदां सूचिः 	 AryaH/hinduism/branches/mishram/upaniShat/upaniShadAM_sUchiH/
 उपवीतपरिवर्तनम् 	 AryaH/hinduism/AchAraH/kriyAH/angAni/upavIta-parivartanam/
 उपवीतम् 	 AryaH/hinduism/AchAraH/kriyAH/tAtkAlika-saMskAraH/sharIram/veShaH/articles/MT/upavItam/
 उपसंहारः 	 AryaH/hinduism/branches/vaiShNavaH/shrI-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/04_upasaMhAraH/
@@ -4672,7 +4678,11 @@ yavana shaiva 	 AryaH/hinduism/branches/shaivaH/meta/articles/MT/yavana-shaiva/
 मोक्षकारिका 	 AryaH/hinduism/branches/shaivaH/siddhAntaH/aShTa_prakaraNAni/moxakArikA/
 यज्ञसूत्रम् 	 AryaH/hinduism/AchAraH/kriyAH/tAtkAlika-saMskAraH/sharIram/veShaH/yajnasUtram/
 यज्ञोपवीत-प्रतिष्ठा 	 AryaH/hinduism/branches/vaiShNavaH/shrI-sampradAyaH/kriyA/venkaTanAthaH/yaJNopavIta-pratiShThA/
-योगराजोपनिषत् 	 AryaH/hinduism/branches/yogaH/yogarAjopaniShat/
+योगकुण्डलिन्युपनिषत् 	 AryaH/hinduism/branches/yogaH/upaniShat/120-sangrahaH/yogakuNDalinyupaniShat/
+योगचूडामण्युपनिषत् 	 AryaH/hinduism/branches/yogaH/upaniShat/120-sangrahaH/yogachUDAmaNyupaniShat/
+योगतत्त्वोपनिषत् 	 AryaH/hinduism/branches/yogaH/upaniShat/120-sangrahaH/yogatattvopaniShat/
+योगराजोपनिषत् 	 AryaH/hinduism/branches/yogaH/upaniShat/yogarAjopaniShat/
+योगशिखोपनिषत् 	 AryaH/hinduism/branches/yogaH/upaniShat/120-sangrahaH/yogashikhopaniShat/
 योगाभ्यासः 	 AryaH/hinduism/AchAraH/kriyAH/yogAbhyAsaH/
 योगिनीहृदयम् दीपिकासहितम् 	 AryaH/hinduism/branches/shAktaH/yoginIhRdayam_dIpikA-sahitam/
 रत्नत्रयपरीक्षा 	 AryaH/hinduism/branches/shaivaH/siddhAntaH/aShTa_prakaraNAni/ratnatrayaparIxA/
@@ -4682,6 +4692,7 @@ yavana shaiva 	 AryaH/hinduism/branches/shaivaH/meta/articles/MT/yavana-shaiva/
 लघ्वाह्निकं - द्राविडी 	 AryaH/hinduism/branches/vaiShNavaH/shrI-sampradAyaH/kriyA/rangarAmAnujaH/laghvAhnikam_ta/
 लघ्वाह्निकम् 	 AryaH/hinduism/branches/vaiShNavaH/shrI-sampradAyaH/kriyA/rangarAmAnujaH/laghvAhnikam/
 लिङ्गकामादिसूत्राणि 	 AryaH/hinduism/social-cultivation/biology/lingakAmAdi/
+वराहोपनिषत् 	 AryaH/hinduism/branches/vaiShNavaH/upaniShat/120-sangrahaH/varAhopaniShat/
 वल्मीक-लिङ्गार्चनम् 	 AryaH/hinduism/branches/shaivaH/valmIkalingArchanam/
 वाचकेषु विज्ञप्तिः 	 AryaH/hinduism/branches/brAhmaH/shAnakara-darshanam/sachchidAnandendraH/mUlAvidyA-nirAsaH/0/vAchakeShu_vijnaptiH/
 वादः 	 AryaH/hinduism/branches/nyAya-vaisheShike/pramA/vAdaH/
